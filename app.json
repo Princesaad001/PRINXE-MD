@@ -1,6 +1,6 @@
 {
-  "name": "PRINXE-MD",
-  "description": "PRINXE-MD A SUPER WHATSAPP USER BOT",
+  "name": "SAAD-MD",
+  "description": "SAAD-MD A SUPER WHATSAPP USER BOT",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "repository": "https://github.com/PRINCE-GDS/PRINXE-MD",
   
@@ -9,7 +9,7 @@
       "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "923092668108;❣️Prince"
+      "value": "923418595810;❣️Saad"
       },
      "MODE": {
       "description": "mode public or private",
@@ -24,12 +24,12 @@
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
-      "value": ""
+      "value": "SAAD-MD"
        },
     "PREFIX": {
       "description": "Put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
      },
     "antidelete": {
       "description": "BOT will forward deleted messages if you make it true",
@@ -49,12 +49,12 @@
     "BOT_NAME": {
       "description": "Put your BOT a name",
       "required": true,
-      "value": "🎡𝗣𝗥𝗜𝗡𝗫𝗘-𝗠𝗗🎡"
+      "value": "🎡SAAD-𝗠𝗗🎡"
       },
     "PACK_NAME": {
       "description": "Put your stickers pack name",
       "required": false,
-      "value": "Prince🎗️❣️"
+      "value": "Saad🎗️❣️"
       },
     "DATABASE_URL": {
       "description": "Put your MongoDB here",
@@ -64,7 +64,7 @@
     "DL_MSG": {
       "description": "Video downloader caption",
       "required": true,
-      "value": "📥-------- *ᴘʀɪɴᴄᴇ-ᴍᴅ* --------📥"
+      "value": "📥-------- *ㅏᏚ么么Ꭰㅓ* --------📥"
       },
     "STATUSVIEW": {
       "description": "Make it true if you want the bot to auto view status",
@@ -84,7 +84,7 @@
     "AutoReaction": {
       "description": "Make it true if you want bot to react on chats",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
