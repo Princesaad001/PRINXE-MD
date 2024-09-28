@@ -19,7 +19,7 @@
      "HKEY": {
       "description": "Put your Heroku API key Here",
       "required": true,
-      "value": ""
+      "value": "HRKU-a8e81d0a-55b5-4981-a9a9-774b9e3776b2"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
@@ -59,7 +59,7 @@
     "DATABASE_URL": {
       "description": "Put your MongoDB here",
       "required": false,
-      "value": ""
+      "value": "mongodb+srv://m-saad001:<password>@saad01.268bdgk.mongodb.net/"
       },
     "DL_MSG": {
       "description": "Video downloader caption",
@@ -89,7 +89,7 @@
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": ""
+      "value": "Prince~Fs4zAYhS#sEJSVMUikAtAIRWLn_eDCjkJfHi43mewDmq0_jKbH2g"
     }
     
    
